@@ -1,6 +1,7 @@
 # Predicting College Admissions (Random Forest)
 
-Code Written in Python using Jupyter Notebook. Open Notebook for code and thorough analysis.
+Code Written in Python using Jupyter Notebook. Open [a link](https://github.com/sshreyas999/Predicting-College-Admissions-Random-Forest/blob/main/Random%20Forest%20-%20Predicting%20College%20Admissions.ipynb) for code and thorough analysis.
+
 
 ## Objective  
 Given certain metrics of a student, our task is to predict the probability of the student getting accepted into graduate programs. We will use a random forest to accomplish this task.
