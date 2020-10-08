@@ -23,12 +23,12 @@ Determine what predictor variables are useful for the task at hand. Apply approp
 ### Model Fitting
 In this case, usa  a Random Forest to make predictions. Find optimum parameters and record metrics.
 ### Evalutaion Metrics
-Evaluation Metrics for this project are Mean Squared Error **(MSE)** and coefficient of determination $R^2$. Apart from evaluation metrics, we also analyze feature importance. 
+Evaluation Metrics for this project are Mean Squared Error **(MSE)** and coefficient of determination **R^<sup>2</sup>**. Apart from evaluation metrics, we also analyze feature importance. 
 ### Predicting on a Custom Example
 Provide a test case and look at the prediction.
 
 ## Conclusion
-The final model explained about $$84.9%$$ of the variability in **Chance of Admit**.  
+The final model explained about **84.9%** of the variability in **Chance of Admit**.  
 
 Test Case:    
 For the following student:  
